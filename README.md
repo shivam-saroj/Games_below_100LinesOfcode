@@ -14,5 +14,6 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 ----------------------------------------------------------------------------------
 **About this Repository**
 
->This is an open source repository .
+>This is an open source repository.
 >Games that need 100 or below 100 lines of code will be accepted.
+>You can add your name in the Contributions.md file .
