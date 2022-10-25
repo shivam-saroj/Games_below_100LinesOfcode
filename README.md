@@ -13,7 +13,7 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 ----------------------------------------------------------------------------------
 **About this Repository**
-
+>You should add your name in the Contributions.md file after adding the file.<br>
 >This is an open source repository.<br>
 >Games that need 100 or below 100 lines of code will be accepted.<br>
->You can add your name in the Contributions.md file .<br>
+
